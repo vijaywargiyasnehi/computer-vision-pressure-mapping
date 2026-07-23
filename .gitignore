@@ -1,0 +1,22 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.mat
+slprj/
+codegen/
+
+# Large video and image data
+*.mov
+*.MOV
+*.mp4
+*.avi
+*.m4v
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local folders
+data/
+outputs/
